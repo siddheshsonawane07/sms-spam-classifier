@@ -1,0 +1,9 @@
+Python 3.8.10
+
+other libraries 
+
+nltk                         3.8.1
+scikit-learn                 1.3.2
+scipy                        1.10.1
+sklearn                      0.0
+streamlit                    1.32.0
